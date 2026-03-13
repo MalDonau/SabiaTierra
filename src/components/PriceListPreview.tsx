@@ -191,7 +191,7 @@ export const PriceListPreview: React.FC = () => {
             <div style={{ textAlign: 'center', marginBottom: '1rem', flexShrink: 0 }}>
               <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1.5rem', marginBottom: '0.5rem' }}>
                 <img 
-                  src="/logo.png" 
+                  src="./logo.png" 
                   alt="Sabia Tierra Logo" 
                   style={{ width: '160px', height: 'auto' }} 
                 />

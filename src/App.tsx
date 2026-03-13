@@ -19,7 +19,7 @@ function App() {
       }}>
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <img src="/logo.png" alt="Sabia Tierra" style={{ height: '40px', background: 'white', padding: '2px', borderRadius: '4px' }} />
+            <img src="./logo.png" alt="Sabia Tierra" style={{ height: '80px', background: 'white', padding: '4px', borderRadius: '4px' }} />
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem' }}>
               <span style={{ fontSize: '0.9rem', opacity: 0.8, background: 'rgba(255,255,255,0.2)', padding: '0.1rem 0.5rem', borderRadius: '4px', width: 'fit-content' }}>
                 Gestor de Precios
